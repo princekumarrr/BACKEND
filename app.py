@@ -39,5 +39,3 @@ def upload_file():
         'matchingIndices': matching_indices
     })
 
-if __name__ == '__main__':
-    app.run(debug=True)
